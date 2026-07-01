@@ -1,4 +1,4 @@
----
+
 
 # Lab 7 - Understanding File Permissions
 
@@ -12,7 +12,7 @@ Permissions determine:
 
 Ansible allows us to manage these permissions using the **mode** parameter.
 
----
+
 
 # Linux Permission Basics
 
