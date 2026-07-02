@@ -6,7 +6,7 @@ Until now, we have displayed variables exactly as they were stored.
 
 Example
 
-```jinja2
+```text
 {{ student_name }}
 ```
 
