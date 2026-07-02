@@ -54,7 +54,7 @@ B --> C[Jinja2 Template]
 
 C --> D[Managed Node]
 
-D --> E[/tmp/welcome.txt]
+D --> E["/tmp/welcome.txt"]
 ```
 
 ---
