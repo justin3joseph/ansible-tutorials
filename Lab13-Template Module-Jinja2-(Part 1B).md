@@ -18,7 +18,7 @@ Justin
 
 Jinja2 provides *filters* that allow us to transform data before displaying it.
 
-Filters can:
+Filters can
 
 - Convert text to uppercase
 - Convert text to lowercase
@@ -30,7 +30,7 @@ Filters can:
 
 A filter is applied using the pipe (`|`) symbol.
 
-General syntax:
+General syntax
 
 ```jinja2
 {{ variable | filter }}
