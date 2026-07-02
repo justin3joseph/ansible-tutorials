@@ -16,7 +16,7 @@ Output
 Justin
 ```
 
-Jinja2 provides **filters** that allow us to transform data before displaying it.
+Jinja2 provides *filters* that allow us to transform data before displaying it.
 
 Filters can:
 
